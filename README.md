@@ -29,7 +29,7 @@ Each step allows fine control over the rendering process, enabling the creation 
 Here is the structure of the repository:
 
 1. **Tutorial**: A 3D shader of a cylinder programmed step-by-step in 6 shaders using more and more advanced functions to get the final result;
-2. **Fragment shaders collection**: My own collection of GLSL code with different basic effects (cellular noise, fractional Brownian motion, boolean operations, Ray Marching, texturing, lighting).
+2. **Fragment_shaders_collection**: My own collection of GLSL code with different basic effects (cellular noise, fractional Brownian motion, boolean operations, Ray Marching, texturing, lighting).
 
 ## 🔧 Requirements
 
