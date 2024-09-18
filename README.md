@@ -30,22 +30,22 @@ Here is the structure of the repository:
 
 1. **Tutorial**: A 3D shader of a cylinder programmed step-by-step in 6 shaders using more and more advanced functions to get the final result. These shaders can be directly seen on the web using Shadertoy:
 
-[Cylinder tutorial - step 1](https://www.shadertoy.com/view/43fcRn)
-[Cylinder tutorial - step 2](https://www.shadertoy.com/view/XXfcRn)
-[Cylinder tutorial - step 3](https://www.shadertoy.com/view/4XfcRn)
-[Cylinder tutorial - step 4](https://www.shadertoy.com/view/X3Xyzn)
-[Cylinder tutorial - step 5](https://www.shadertoy.com/view/M3fczH)
-[Cylinder tutorial - step 6](https://www.shadertoy.com/view/43Xyzn)
+- [Cylinder tutorial - step 1](https://www.shadertoy.com/view/43fcRn)
+- [Cylinder tutorial - step 2](https://www.shadertoy.com/view/XXfcRn)
+- [Cylinder tutorial - step 3](https://www.shadertoy.com/view/4XfcRn)
+- [Cylinder tutorial - step 4](https://www.shadertoy.com/view/X3Xyzn)
+- [Cylinder tutorial - step 5](https://www.shadertoy.com/view/M3fczH)
+- [Cylinder tutorial - step 6](https://www.shadertoy.com/view/43Xyzn)
 
 3. **Fragment_shaders_collection**: My own collection of GLSL code with different basic effects (cellular noise, fractional Brownian motion, boolean operations, Ray Marching, texturing, lighting). Again,these shaders can be directly seen on the web using Shadertoy:
 
-[Bouncing grid](https://www.shadertoy.com/view/XcdXzS)
-[Bugging screen](https://www.shadertoy.com/view/MX33WS)
-[Caustic water](https://www.shadertoy.com/view/4cjXWz)
-[Chill scene](https://www.shadertoy.com/view/lc2GWm)
-[Color disk](https://www.shadertoy.com/view/MffGWf)
-[Spinning flower](https://www.shadertoy.com/view/MXfSzn)
-[Star screen saver](https://www.shadertoy.com/view/l3fcDj)
+- [Bouncing grid](https://www.shadertoy.com/view/XcdXzS)
+- [Bugging screen](https://www.shadertoy.com/view/MX33WS)
+- [Caustic water](https://www.shadertoy.com/view/4cjXWz)
+- [Chill scene](https://www.shadertoy.com/view/lc2GWm)
+- [Color disk](https://www.shadertoy.com/view/MffGWf)
+- [Spinning flower](https://www.shadertoy.com/view/MXfSzn)
+- [Star screen saver](https://www.shadertoy.com/view/l3fcDj)
 
 ## 🔧 Requirements
 
