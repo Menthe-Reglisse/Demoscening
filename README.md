@@ -18,9 +18,9 @@ Shaders do not restrict to the display on an output screen, but they concern all
 Each step allows fine control over the rendering process, enabling the creation of complex and realistic visual effects. Such shaders can be directly programmed for efficiency purpose, or created in 3D modelling software such as Blender. Here is an example of rendering I created on Blender by following a [tutorial on YouTube](https://www.youtube.com/watch?v=yCHT23A6aJA):
 
 <br>
-<div style="text-align: center;">
+<p align="center">
 <img src="./readMe_data/Blender_isometric_room.png" alt="Example of a scene generated on Blender" width="500"/>
-</div>
+</p>
 <br>
 
 
