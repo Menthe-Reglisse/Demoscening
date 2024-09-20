@@ -37,7 +37,7 @@ Here is the structure of the repository:
 - [Cylinder tutorial - step 5](https://www.shadertoy.com/view/M3fczH)
 - [Cylinder tutorial - step 6](https://www.shadertoy.com/view/43Xyzn)
 
-3. **Fragment_shaders_collection**: My own collection of GLSL code with different basic effects (cellular noise, fractional Brownian motion, boolean operations, Ray Marching, texturing, lighting). Again,these shaders can be directly seen on the web using Shadertoy:
+2. **Fragment_shaders_collection**: My own collection of GLSL code with different basic effects (cellular noise, fractional Brownian motion, boolean operations, Ray Marching, texturing, lighting). Again,these shaders can be directly seen on the web using Shadertoy:
 
 - [Bouncing grid](https://www.shadertoy.com/view/XcdXzS)
 - [Bugging screen](https://www.shadertoy.com/view/MX33WS)
